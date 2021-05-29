@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flipdantas&label=Profile%20views&color=0e75b6&style=flat" alt="flipdantas" /> </p>
 
-- 🔭 I’m currently working on [the Rocketseat's project "GoBarber" in NodeJS and ReactJS](https://github.com/flipdantas/goStack-api-goBarber)
-
+- 🔭 I’m currently working on the [Rocketseat's project "GoBarber"](https://github.com/flipdantas/goStack-api-goBarber) and on a [project of AfyaLabs](https://github.com/fdutrac/desafio-afya-api), both in NodeJS and ReactJS.  
 - 🌱 I’m currently learning **Node.js and ReactJS (and after, React-Native).**
 
 - 📫 How to reach me **filipedantas90@hotmail.com**
