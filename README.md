@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Filipe Dantas</h1>
-<h3 align="center">I am a junior full stack web developer who's looking for new opportunities. I'm from Sao Paulo, Brazil.</h3>
+<h3 align="center">I am a junior full stack web developer. I'm from Sao Paulo, Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flipdantas&label=Profile%20views&color=0e75b6&style=flat" alt="flipdantas" /> </p>
 
-- 🔭 I’m currently working on the [Rocketseat's project "GoBarber"](https://github.com/flipdantas/goStack-api-goBarber) and on a [project of AfyaLabs](https://github.com/fdutrac/desafio-afya-api), both in NodeJS and ReactJS.  
-- 🌱 I’m currently learning **Node.js and ReactJS (and after, React-Native).**
+- 🔭 I’m currently working on **Afya Educacional**.  
+- 🌱 I’m currently learning **Node.js and ReactJS.**
 
 - 📫 How to reach me **filipedantas90@hotmail.com**
 
