@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flipdantas&label=Profile%20views&color=0e75b6&style=flat" alt="flipdantas" /> </p>
 
-- 🔭 I’m currently working on **Afya Educacional**.  
+- 🔭 I’m currently working at **Afya Educacional**.  
 - 🌱 I’m currently learning **Node.js and ReactJS.**
 
 - 📫 How to reach me **filipedantas90@hotmail.com**
